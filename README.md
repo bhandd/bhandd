@@ -19,9 +19,13 @@ Jag är en systemutvecklare och studerar sista terminen till högskoleingenjör 
   Mitt examensarbete vid Kungliga Tekniska högskolan där jag utvecklade en lösning för att automatisera egenkontroller i elritningar med hjälp av maskininlärning och YOLO-modeller.
   [Läs hela exjobbet på DiVA här](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A2041230)
 
+- **AI-baserad objektdetektering för elritningar (Exjobb)**
+  En webbapplikation utvecklad för att automatisera egenkontroller i tekniska ritningar genom att identifiera komponenter med hjälp av YOLO-modeller.
+  [Se källkoden här](https://github.com/bhandd/AI-object-detection-app) | [Läs rapporten på DiVA](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A2041230)
+
 - **Library Management System**
   Ett fullstack-projekt byggt med ASP.NET Core och 3-lagers-arkitektur för att demonstrera ren kod, enhetstester med XUnit och modulär design. 
-  [Se projektet här](LÄNK_TILL_DITT_NYA_REPO)
+  [Se projektet här](https://github.com/bhandd/Company_case)
 
 ### 💼 Kontakt
 * **LinkedIn:** [linkedin.com/in/bhandd](https://linkedin.com/in/bhandd)
