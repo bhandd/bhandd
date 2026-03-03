@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hej, jag är Björn Andersson
 
-<!--
-**bhandd/bhandd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jag är en systemutvecklare och studerar sista terminen till högskoleingenjör i datateknik vid Kungliga Tekniska högskolan. Jag brinner för att bygga skalbara system med modern arkitektur och att integrera mjukvarulösningar som löser komplexa problem.
 
-Here are some ideas to get you started:
+### 🛠 Teknisk Stack
+* **Språk:** C#, Java, Python, Kotlin
+* **Backend:** ASP.NET Core, Spring Boot, Quarkus
+* **Frontend:** Angular, React
+* **DevOps & Arkitektur:** Docker, Kubernetes, CI/CD (GitHub Actions), Git
+* **Databaser:** SQL, NoSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Fokusområden
+* **Systemintegration:** Att implementera modern mjukvara i befintliga miljöer och optimera flöden.
+* **Microservices:** Design och implementation av skalbara, distribuerade system.
+* **Kvalitet:** Automatisering, enhetstester (XUnit) och agila arbetsmetoder.
+
+### 🎓 Utvalda projekt
+- **Objektdetektering för elritningar (Exjobb)**
+  Mitt examensarbete vid Kungliga Tekniska högskolan där jag utvecklade en lösning för att automatisera egenkontroller i elritningar med hjälp av maskininlärning och YOLO-modeller.
+  [Läs hela exjobbet på DiVA här](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A2041230)
+
+- **Library Management System**
+  Ett fullstack-projekt byggt med ASP.NET Core och 3-lagers-arkitektur för att demonstrera ren kod, enhetstester med XUnit och modulär design. 
+  [Se projektet här](LÄNK_TILL_DITT_NYA_REPO)
+
+### 💼 Kontakt
+* **LinkedIn:** [linkedin.com/in/bhandd](https://linkedin.com/in/bhandd)
+* **E-post:** bjorn1987@gmail.com
