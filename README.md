@@ -25,4 +25,4 @@ Jag är en systemutvecklare och studerar sista terminen till högskoleingenjör 
 
 ### 💼 Kontakt
 * **LinkedIn:** [linkedin.com/in/bhandd](https://linkedin.com/in/bhandd)
-* **E-post:** bjorn1987@gmail.com
+* **E-post:** bjorn.andersson@bhand.se
